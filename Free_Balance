@@ -1,0 +1,5 @@
+Start program
+int Price, Total
+Printlin (“Please show the total purchase amount”);
+Display Price
+Set Total=Price
